@@ -1,0 +1,3 @@
+[submodule "RepoB"]
+	path = RepoB
+	url = https://github.com/shaheerghub/RepoB.git
